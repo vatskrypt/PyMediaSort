@@ -8,7 +8,7 @@
 
 - Reads EXIF metadata to extract "Date Taken"
 - Automatically creates folders like `2021/`, `2022/`, etc.
-- Copies (or optionally moves) files to the correct folder
+- Moves (or optionally copies(wip)) files to the correct folder
 - Supports common image formats (JPEG, PNG)
 - Windows GUI in progress (built with Tkinter)
 - Planned support for video files (WIP)
