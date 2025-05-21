@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs or generated files
+*.log
+*.bak
+
+# Image/Media folders (if not needed in repo)
+SortedPhotos/
+original Folder/
+Journal/
